@@ -21,4 +21,4 @@ I will be open to any contribution. If you have any idea, please let me know. I 
 
 ## License
 
-This project is licensed under [GPL-3.0](https://github.com/mrhrifat/advance-react-js/master/LICENSE.md).
+This project is licensed under [GPL-3.0](https://github.com/mrhrifat/react-js/blob/master/LICENSE.md).
