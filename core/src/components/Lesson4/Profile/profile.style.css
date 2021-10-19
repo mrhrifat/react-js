@@ -1,0 +1,14 @@
+.main .knowledge, .main .students {
+  padding: 10px 0;
+}
+.main .knowledge ul li, .main .students ul li {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #0d6efd;
+}
+.main .knowledge ul li a, .main .students ul li a {
+  text-decoration: none;
+  color: #fff;
+}/*# sourceMappingURL=profile.style.css.map */
