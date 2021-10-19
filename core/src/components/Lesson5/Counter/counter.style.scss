@@ -1,0 +1,21 @@
+$bg-color: #16a085;
+$white: #fff;
+
+.area {
+    background-color: $bg-color;
+
+    button {
+        margin: 15px;
+    }
+
+    .top {
+        padding: 20px 0;
+        span {
+            color: $white;
+            padding: 30px 40px;
+            font-size: 35px;
+            border: 1px solid $white;
+            border-radius: 50px 50px;
+        }
+    }
+}
