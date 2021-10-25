@@ -1,4 +1,4 @@
-import Import from "../../core/src/components/import";
+import Import from "./components/Import";
 
 function App() {
   return (
