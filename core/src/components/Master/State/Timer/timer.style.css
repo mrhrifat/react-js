@@ -1,0 +1,16 @@
+.area {
+  background-color: #16a085;
+}
+.area button {
+  margin: 15px;
+}
+.area .top {
+  padding: 20px 0;
+}
+.area .top span {
+  color: #fff;
+  padding: 30px 40px;
+  font-size: 35px;
+  border: 1px solid #fff;
+  border-radius: 50px 50px;
+}/*# sourceMappingURL=timer.style.css.map */
