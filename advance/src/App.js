@@ -1,7 +1,9 @@
+import Import from "./Import";
+
 function App() {
   return (
-    <div>
-      <h2>Bismillahir Rahmanir Rahim</h2>
+    <div className="App">
+      <Import />
     </div>
   );
 }
